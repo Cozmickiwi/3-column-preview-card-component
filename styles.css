@@ -64,7 +64,7 @@
     
     .button {
         position: absolute;
-        bottom: 15%;
+        bottom: 10%;
         width: 135px;
         height: 45px;
         background-color: hsl(0, 0%, 95%);
